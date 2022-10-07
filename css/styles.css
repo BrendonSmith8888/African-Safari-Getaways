@@ -1,0 +1,85 @@
+a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+    text-decoration: none;
+}
+
+body{
+    align-items: center;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5vw;
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4vw;
+}
+
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+}
+
+h4{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+
+li{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+
+img{
+    height: 50%;
+    width: 100%;
+}
+
+ul{
+    width: 80%;
+}
+
+p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5vw;
+}
+
+.About{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.Contact{
+    align-self: start;
+}
+
+.firstColumn{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.secondColumn{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
